@@ -1,0 +1,8 @@
+backende çalıştırman gereken kommutlar= spring-boot tabanlı proje .
+./mvnw clean install
+./mvnw spring-boot:run
+
+java -version için  bununda aynı java version olmalı bu projeyi nerden yüklüyorsan.
+
+
+frontend çalıştırmak için gerekn kommutlar= npm start
