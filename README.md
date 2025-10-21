@@ -31,17 +31,6 @@ All frontend components were developed using **React** and **Tailwind CSS** to e
 
 ---
 
-## ⚙️ Backend & API
-| Category | Technologies |
-|-----------|---------------|
-| **Framework** | Spring Boot |
-| **API Type** | REST API |
-
-The backend was developed using **Spring Boot**, which provided RESTful APIs consumed by the frontend.  
-Close collaboration between frontend and backend teams ensured seamless data integration and efficient communication.
-
----
-
 ##  Project Management & Workflow
 | Tool / Method | Purpose |
 |----------------|----------|
