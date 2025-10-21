@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+#  Hotel Booking E-Commerce Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##  Overview
+The **Hotel Booking E-Commerce Application** is a full-stack team project developed during our internship at **SAN TSG** between **July 1 – August 10, 2025**.  
+It offers a complete hotel booking experience — from hotel search and filtering to viewing details and completing reservations.  
+Our goal was to design a responsive, user-friendly, and functional e-commerce platform for hotel reservations.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+##  Key Features
+-  **Dynamic Search Form:** Filters hotels by location, date, number of guests, currency, and nationality.  
+-  **Hotel Listings:** Displayed dynamically using real API data.  
+-  **Hotel Detail Page:** Shows comprehensive information, images, and pricing details.  
+-  **Reservation Page:** Allows users to finalize bookings.  
+-  **Login Page:** Provides a simple authentication interface.  
+-  **Responsive Design:** Fully optimized for all device sizes.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🧩 Frontend Technologies
+| Category | Technologies |
+|-----------|---------------|
+| **Framework** | React.js |
+| **Styling** | Tailwind CSS |
+| **Routing** | React Router |
+| **Language** | JavaScript |
+| **API Integration** | REST API |
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+All frontend components were developed using **React** and **Tailwind CSS** to ensure responsive, reusable, and accessible UI.  
+**React Router** was used for dynamic page routing and managing URL parameters.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ⚙️ Backend & API
+| Category | Technologies |
+|-----------|---------------|
+| **Framework** | Spring Boot |
+| **API Type** | REST API |
 
-### `npm run build`
+The backend was developed using **Spring Boot**, which provided RESTful APIs consumed by the frontend.  
+Close collaboration between frontend and backend teams ensured seamless data integration and efficient communication.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##  Project Management & Workflow
+| Tool / Method | Purpose |
+|----------------|----------|
+| **Trello** | Task tracking and project planning |
+| **Agile Methodology** | Iterative development through short sprints |
+| **Daily Meetings** | Communication and progress monitoring |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+We followed an **Agile methodology** using **Trello** for task management. Daily sprint meetings helped maintain communication and alignment across all team members.
 
-### `npm run eject`
+---
+##  Team Members
+| Name | Role | Support Role |
+|------|------| --------|
+| **Derya Salihoğlu** | Frontend Developer | Backend Developer |
+| **Defnenur Çiftçi** | Frontend Developer | Backend Developer |
+| **İsa Ölmez** | Backend Developer | Frontend Developer |
+| **Şevval Yöntem** | Frontend Developer | Backend Developer |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+**Tools:** Trello, Git, Visual Studio Code
